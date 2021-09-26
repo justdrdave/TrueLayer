@@ -1,0 +1,14 @@
+/.idea/
+*.iml
+/target/
+/lib
+/build/
+/Reports/
+/bin/
+/obj/
+/.settings/
+/.vscode/
+.DS_Store
+.classpath
+.project
+.gradle
